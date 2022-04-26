@@ -1,0 +1,19 @@
+{
+  "name": "clase-9",
+  "version": "1.0.0",
+  "description": "Juego Simon dice para r/argentina programa",
+  "main": "index.html",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/luchomaspero/Clase-9.git"
+  },
+  "author": "Lucio F. Maspero",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/luchomaspero/Clase-9/issues"
+  },
+  "homepage": "https://github.com/luchomaspero/Clase-9#readme"
+}
